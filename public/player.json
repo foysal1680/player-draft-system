@@ -1,0 +1,98 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/Kx5BV3bZ/gettyimages-2154844030-612x612.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "player_role": "All-rounder",
+    "rating": 9.4,
+    "price": 95000
+  },
+  {
+    "player_image": "https://i.ibb.co.com/23vQ2fkk/images.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman",
+    "rating": 8.9,
+    "price": 72000
+  },
+  {
+    "player_image": "https://i.ibb.co.com/JMQT4HB/licensed-image.webp",
+    "player_name": "Mushfiqur Rahim",
+    "player_country": "Bangladesh",
+    "player_role": "Wicketkeeper",
+    "rating": 8.7,
+    "price": 68000
+  },
+  {
+    "player_image": "https://randomuser.me/api/portraits/men/14.jpg",
+    "player_name": "Mahmudullah Riyad",
+    "player_country": "Bangladesh",
+    "player_role": "All-rounder",
+    "rating": 8.5,
+    "price": 64000
+  },
+  {
+    "player_image": "https://randomuser.me/api/portraits/men/15.jpg",
+    "player_name": "Liton Das",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman",
+    "rating": 8.8,
+    "price": 70000
+  },
+  {
+    "player_image": "https://randomuser.me/api/portraits/men/16.jpg",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "player_role": "Bowler",
+    "rating": 9.0,
+    "price": 75000
+  },
+  {
+    "player_image": "https://randomuser.me/api/portraits/men/17.jpg",
+    "player_name": "Faf du Plessis",
+    "player_country": "South Africa",
+    "player_role": "Batsman",
+    "rating": 9.1,
+    "price": 88000
+  },
+  {
+    "player_image": "https://randomuser.me/api/portraits/men/18.jpg",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "player_role": "All-rounder",
+    "rating": 9.6,
+    "price": 99000
+  },
+  {
+    "player_image": "https://randomuser.me/api/portraits/men/19.jpg",
+    "player_name": "Sunil Narine",
+    "player_country": "West Indies",
+    "player_role": "All-rounder",
+    "rating": 8.9,
+    "price": 82000
+  },
+  {
+    "player_image": "https://randomuser.me/api/portraits/men/20.jpg",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "player_role": "Bowler",
+    "rating": 9.5,
+    "price": 97000
+  },
+  {
+    "player_image": "https://randomuser.me/api/portraits/men/21.jpg",
+    "player_name": "Babar Azam",
+    "player_country": "Pakistan",
+    "player_role": "Batsman",
+    "rating": 9.3,
+    "price": 92000
+  },
+  {
+    "player_image": "https://randomuser.me/api/portraits/men/22.jpg",
+    "player_name": "Quinton de Kock",
+    "player_country": "South Africa",
+    "player_role": "Wicketkeeper",
+    "rating": 9.2,
+    "price": 89000
+  }
+]
