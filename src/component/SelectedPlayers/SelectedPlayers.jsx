@@ -1,8 +1,16 @@
 import React from 'react'
+import SelectedCard from '../SelectedCard/SelectedCard'
 
-function SelectedPlayers() {
+function SelectedPlayers({purchasedPlayers, romovePlayer}) {
+  console.log(purchasedPlayers)
   return (
-    <div>SelectedPlayers</div>
+    <div className="max-w-[1200px] mx-auto ">
+
+    {
+        purchasedPlayers.map(player=><SelectedCard  romovePlayer={romovePlayer} player={player}></SelectedCard>)
+    }
+
+    </div>
   )
 }
 
